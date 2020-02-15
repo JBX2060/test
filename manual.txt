@@ -1,0 +1,96 @@
+
+
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ~   CAD-KAS Build-Your-Own-Altcoin Cryptocurrency Creator 1.0    ~
+      ~                                                                ~                     
+      ~                             MANUAL                             ~
+      ~                                                                ~
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+                              ~~~~~~~~~~~~
+                              ~ Contents ~
+                              ~~~~~~~~~~~~
+
+1.    What the program does
+2.    Copyright and Warranties
+3.    This is only a demo version (Shareware)!
+4.    Hardware and Software requirements
+5.    Limits of the demo version
+6.    Contact
+
+
+1.What the program does
+~~~~~~~~~~~~~~~~~~~~~~~
+  You want to build your own cryptocurrencies but you do not know
+  where to start? 
+  With Build-Your-Own-Altcoin Cryptocurrency Creator you can create your
+  altcoins with a few mouse clicks. You save at least a few hours or even days
+  of work even if you are a developer. 
+  If you are not a developer you can start your own altcoin without the need to
+  change any program code.
+  If you need further help in the creation of your altcoin you can contact us and
+  we will help you.
+  You can customize many things in the program. The program uses the Bitcoin
+  v0.17.1 source code as a basis. 
+  You can customize the following things: name, symbol, block time, difficulty retargeting interval,
+  subsidy halfing interval, block reward, premine, maximum block size, ports, seed ip,
+  dnsseeder, address version bytes.
+  You can replace the pictures in two of the folders to use your own logo for the coin.
+  You can compile the coin on your own, which is not very hard, only a few lines
+  of code to copy and paste. But if you need help with that step, we offer this as a service
+  for a small fee too.
+  We also offer to help you with all other steps like creating an explorer, mining pool, dnsseeder etc. 
+  for a small fee.
+  We are not responsible for any loss of funds or any damage due to errors
+  in the program source code. This program uses the Bitcoin source code
+  as a basis which is open source.
+
+
+2.Copyright and Warranties
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+  This is a production of CAD-KAS Computersoftware.
+  This program was programmed by Christian Alexander Daniel Kassler.
+  All rights reserved.
+
+  CAD-KAS DISCLAIMS ALL WARRANTIES, EITHER EXPRESS OR IMPLIED,
+  INCLUDING THE WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+  PARTICULAR PURPOSE.  
+  IN NO EVENT SHALL CAD-KAS BE LIABLE FOR ANY 
+  DAMAGES WHATSOEVER INCLUDING DIRECT, INDIRECT, INCIDENTAL, 
+  CONSEQUENTIAL, LOSS OF BUSINESS PROFITS OR SPECIAL DAMAGES, 
+  EVEN IF CAD-KAS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH 
+  DAMAGES.
+
+
+3.This is only a demo version (Shareware)!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  This is the demo version of "Build-Your-Own-Altcoin Cryptocurrency Creator 1.0". 
+  That means, you can try this program before you buy it. 
+  Read the file order.txt to get more informations.
+
+  Anybody can distribute the demo version of this program 
+  freely in any Way.
+
+
+4.Hardware and Software requirements
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  Hardware: Any modern PC
+  Software: Windows version 10/8/7
+
+
+5.Limits of the demo version
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  You can not change the name of the coin in the demo verison. 
+
+
+6.Contact
+~~~~~~~~
+  Address:   CAD-KAS GbR; Angerstraﬂe 23; Germany 04420 Markranstaedt
+  Tel:       +49-34205-5-88-99
+  Fax:       +49-34205-8-38-74
+  eMail:     info@cadkas.com
+  Internet:  http://www.cadkas.com
+
+
+                           - END -
